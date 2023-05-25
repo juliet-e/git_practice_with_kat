@@ -4,3 +4,8 @@ class YourClass
     puts 'hello my very good friend'
   end
 end
+
+
+class MyClass
+  
+end
